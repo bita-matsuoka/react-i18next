@@ -1,0 +1,9 @@
+{
+  "App": {
+    "title": "React Multilingual support"
+  },
+  "componentA": {
+    "title": "Component A",
+    "description": "text"
+  }
+}
