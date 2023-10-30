@@ -2,7 +2,7 @@
   "App": {
     "title": "React Multilingual support"
   },
-  "componentA": {
+  "ComponentA": {
     "title": "Component A",
     "description": "text"
   }

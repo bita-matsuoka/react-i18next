@@ -6,8 +6,8 @@ export const ComponentA: FC = () => {
 
   return (
       <>
-        <h2>{t("componentA.title")}</h2>
-        <p>{t("componentA.description")}</p>
+        <h2>{t("ComponentA.title")}</h2>
+        <p>{t("ComponentA.description")}</p>
       </>
   )
 }
