@@ -16,8 +16,8 @@ function App() {
       <header className="App-header">
         <h1>{t("App.title")}</h1>
         <div>
-          <button className="Language-button" onClick={() => changeLanguage('ja')}>ja</button>
-          <button className="Language-button" onClick={() => changeLanguage('en')}>en</button>
+          <button className="Language-button" onClick={() => changeLanguage("ja")}>ja</button>
+          <button className="Language-button" onClick={() => changeLanguage("en")}>en</button>
         </div>
         <ComponentA/>
       </header>

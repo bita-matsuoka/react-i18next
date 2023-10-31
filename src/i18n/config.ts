@@ -6,7 +6,7 @@ import en from "./locales/en.json"
 i18n
     .use(initReactI18next)
     .init({
-      lng: 'en', // 使用する言語情報（resourcesから選択するイメージ）
+      lng: "ja", // 使用する言語情報（resourcesから選択するイメージ）
       debug: true, // ブラウザのconsoleにデバッグ情報を表示
       resources: { // 辞書登録
         ja: {
